@@ -1,0 +1,9 @@
+https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
+
+https://stackoverflow.com/questions/40370800/insert-result-of-sklearn-countvectorizer-in-a-pandas-dataframe
+
+https://colab.research.google.com/github/littlecolumns/ds4j-notebooks/blob/master/text-analysis/notebooks/Counting%20words%20with%20scikit-learn's%20CountVectorizer.ipynb
+
+https://towardsdatascience.com/basics-of-countvectorizer-e26677900f9c
